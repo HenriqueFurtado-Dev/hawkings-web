@@ -1,7 +1,47 @@
 .products {
-    background-color: red;
+    padding: 50px 0;
+}
+
+.products h2 {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+
+.products p {
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .products .products-box {
     display: flex;
+    gap: 10px;
+}
+
+.products .products-box .box-product {
+    padding: 30px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.products .products-box .box-product h3 {
+    margin: 0;
+}
+
+.products .products-box .box-product p {
+    text-align: left;
+}
+
+.products .products-box .box-product button {
+    border: none;
+    padding: 12px 20px;
+    background-color: rgb(21, 21, 118);
+    border-radius: 20px;
+}
+
+.products .products-box .box-product button a {
+    text-decoration: none;
+    color: white;
 }

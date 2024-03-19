@@ -1,0 +1,35 @@
+.CRM {
+    display: flex;
+    padding: 30px 0;
+}
+
+.CRM .crm-content {
+    display: flex;
+    justify-content: center;
+    padding-right: 60px;
+    flex-direction: column;
+}
+
+.CRM .crm-content h3 {
+    font-size: 32px;
+    margin: 0;
+}
+
+
+
+.CRM .crm-content button {
+    border: none;
+    padding: 12px 20px;
+    background-color: rgb(21, 21, 118);
+    border-radius: 20px;
+    width: 120px;
+}
+
+.CRM .crm-content button a {
+    text-decoration: none;
+    color: white;
+}
+
+.CRM .crm-image img {
+    width: 8-%;
+}
