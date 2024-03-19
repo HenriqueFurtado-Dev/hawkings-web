@@ -1,0 +1,27 @@
+.logos-partners {
+    display: flex;
+}
+
+.logos-partners .logos-partners-images {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 30px;
+    width: 70%;
+}
+
+.logos-partners .logos-partners-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+}
+
+.logos-partners .logos-partners-content h2 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.logos-partners .logos-partners-images img {
+    width: 160px;
+}

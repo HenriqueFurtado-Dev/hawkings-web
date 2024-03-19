@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/images/sf-logo.png';
+import logo from '../../assets/images/sf-logo.png';
 import './Header.css'
 
 function Header() {

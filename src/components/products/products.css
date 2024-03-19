@@ -1,0 +1,7 @@
+.products {
+    background-color: red;
+}
+
+.products .products-box {
+    display: flex;
+}

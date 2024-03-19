@@ -1,5 +1,5 @@
 import React from 'react';
-import Connections from '../assets/images/connections.png'
+import Connections from '../../assets/images/connections.png'
 import './Banner.css'
 
 function Banner() {
