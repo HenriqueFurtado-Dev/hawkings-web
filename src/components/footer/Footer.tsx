@@ -19,7 +19,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div className="navigation-links navigation-suport">
-                    <h3>Navegação</h3>
+                    <h3>Suporte</h3>
                     <ul>
                         <li><a href="#">Web Design</a></li>
                         <li><a href="#">App Design</a></li>
@@ -27,11 +27,10 @@ function Footer() {
                     </ul>
                 </div>
                 <div className="navigation-links  navigation-contact">
-                    <h3>Navegação</h3>
+                    <h3>Contato</h3>
                     <ul>
                         <li><a href="#">Web Design</a></li>
                         <li><a href="#">App Design</a></li>
-                        <li><a href="#">Social design</a></li>
                     </ul>
                 </div>
             </div>
