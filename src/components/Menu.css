@@ -1,0 +1,42 @@
+.menu {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    transition: transform 0.3s ease;
+  }
+  
+  .menu.open {
+    transform: translateX(0);
+  }
+  
+  .menu-toggle {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 24px;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .menu-content {
+    position: fixed;
+    top: 0;
+    left: 60px; /* Largura do ícone + margem */
+    width: 300px;
+    height: 600px;
+    background-color: #fff;
+    border-right: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    transform: translateX(-100%);
+    overflow-y: auto; /* Adiciona barra de rolagem vertical, se necessário */
+  }
+  
+  .menu.open .menu-content {
+    transform: translateX(0);
+  }
+  
