@@ -2,8 +2,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1440px;
-    margin: auto;
+    padding: 12px 0;
 }
 
 header ul {
