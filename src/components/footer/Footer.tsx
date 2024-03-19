@@ -8,9 +8,9 @@ function Footer() {
             <div className="footer-navigation container">
                 <div className="navigaton-social">
                     <img src={logo} className='logo' alt="" />
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus consequuntur quod aspernatur, tempora ullam nobis necessitatibus, distinctio, minima nemo non eos. Accusantium eius, odit cum necessitatibus ad error minima incidunt!</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus consequuntur quod aspernatur.</p>
                 </div>
-                <div className="navigation-site">
+                <div className="navigation-links navigation-site">
                     <h3>Navegação</h3>
                     <ul>
                         <li><a href="#">Web Design</a></li>
@@ -18,7 +18,7 @@ function Footer() {
                         <li><a href="#">Social design</a></li>
                     </ul>
                 </div>
-                <div className="navigation-suport">
+                <div className="navigation-links navigation-suport">
                     <h3>Navegação</h3>
                     <ul>
                         <li><a href="#">Web Design</a></li>
@@ -26,7 +26,7 @@ function Footer() {
                         <li><a href="#">Social design</a></li>
                     </ul>
                 </div>
-                <div className="navigation-contact">
+                <div className="navigation-links  navigation-contact">
                     <h3>Navegação</h3>
                     <ul>
                         <li><a href="#">Web Design</a></li>
