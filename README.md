@@ -1,8 +1,7 @@
-# React + Vite
+# Salesforce + Hawkings
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse site ainda está em desenvolvimento, e em breve será lançado em um versão beta.
 
-Currently, two official plugins are available:
+Site oficial da empresa abaixo: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Uma solução parceira da [Salesforce](https://www.salesforce.com/br/)
