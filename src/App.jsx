@@ -4,6 +4,7 @@ import Banner from './components/banner/Banner'
 import Watson from './components/watson/Watson'
 import Logos from './components/logos/Logos'
 import Products from './components/products/Products'
+import Footer from './components/footer/Footer'
 import CRM from './components/crm/Crm'
 // FINALIZAR: import Menu from './components/Menu'
 
@@ -18,6 +19,7 @@ function App() {
       <Logos></Logos>
       <Products></Products>
       <CRM></CRM>
+      <Footer></Footer>
     </main>
   )
 }
